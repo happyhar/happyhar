@@ -1,12 +1,11 @@
-<h2> Hi, I'm HARSHA R! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h1 style="color:coral"> Hi, I'm HARSHA R! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <p><em>EngineeringStudent at <a href="http://www.svcengg.com">Sri Venkateshwara College Of Engineering</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30
 
 [![Linkedin: hpyhar](https://img.shields.io/badge/-hpyhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hpyhar/)](https://www.linkedin.com/in/hpyhar/)
 [![GitHub happyhar](https://img.shields.io/github/followers/happyhar?label=follow&style=social)](https://github.com/happyhar)
 
 
-### A little more about me...  
+###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...  
 
 ```javascript
 const thai = {
@@ -23,4 +22,4 @@ const thai = {
 
 ---
 
-⭐️ From [@happyhar](https://github.com/happyhar)
+🤩 From [@happyhar](https://github.com/happyhar)
